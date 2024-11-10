@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Benjamin Steenhoek"
+title                    : "Khushi Jindal"
 title_separator          : "-"
-name                     : &name "Benjamin Steenhoek"
-description              : &description "PhD student at Iowa State University"
-url                      : https://benjijang.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Khushi Jindal"
+description              : &description "Masters Student at IGDTUW"
+url                      : https://khushiijindal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bstee615/bstee615.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -86,8 +86,8 @@ author:
   location         : #"Ames, IA"
   employer         : "Iowa State University"
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=dzXbaEMAAAAJ"
-  email            : benjis@iastate.edu
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=gWrYw44AAAAJ"
+  email            : khushi003mtcse23@igdtuw.ac.in
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "bstee615"
+  github           : "khushijindal06"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : ben-steenhoek
-  orcid            : "http://orcid.org/0000-0001-6175-105X"
+  linkedin         : khushii-jindal
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : "benjisteenhoek"
+  twitter          :
   vine             :
   weibo            :
   xing             :
